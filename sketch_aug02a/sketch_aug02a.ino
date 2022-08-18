@@ -2,11 +2,11 @@
 #include <PubSubClient.h>
 
 // WiFi
-//const char *ssid = "Speedexqm"; // Enter your WiFi name
-//const char *password = "speedex@2020";  // Enter WiFi password
+const char *ssid = "SpeedEx-QM"; // Enter your WiFi name
+const char *password = "speedex@2020";  // Enter WiFi password
 
-const char *ssid = "HU-Guest"; // Enter your WiFi name
-const char *password = "HU_GUEST14";  // Enter WiFi password
+//const char *ssid = "HU-Guest"; // Enter your WiFi name
+//const char *password = "HU_GUEST14";  // Enter WiFi password
 
 
 // MQTT Broker
